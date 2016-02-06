@@ -14,7 +14,7 @@ image:
 comments: false
 mathjax: null
 featured: false
-published: false
+published: true
 ---
 
 >&quot;The beginning is the most important part of the work.&quot;
