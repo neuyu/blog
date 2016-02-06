@@ -13,7 +13,7 @@ image:
   creditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
 comments: false
 mathjax: null
-featured: false
+featured: true
 published: true
 ---
 
